@@ -62,13 +62,6 @@ public/
   favicon.svg
 ```
 
-## Content sources
-
-All copy is derived directly from Gowmika Ganji's resume (education, experience, projects,
-skills, achievements). Update `src/components/*.jsx` directly to edit copy — content lives
-inline in each component as plain arrays/objects, so there's no CMS or build step required
-to make text edits.
-
 ## Deploying
 
 This is a static Vite app. After `npm run build`, deploy the `dist/` folder to Vercel,
